@@ -2,4 +2,4 @@
 This is my firt git test
 testing
 
-version updated
+version pull request
